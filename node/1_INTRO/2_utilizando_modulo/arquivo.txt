@@ -1,0 +1,1 @@
+o node está lendo as informações que estão dentrod desse arquivo!
